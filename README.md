@@ -27,7 +27,7 @@ Android Slider Views library updates regularly. Your valuable sponsorship helps 
       <td>Horizontal Carousel</td>
       <td>Carousel w/ Custom Indicator</td>
       <td>Vertical Carousel</td>
-    </tr>
+    </tr>ttt
    </table>
  </center>
 
